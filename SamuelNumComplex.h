@@ -1,9 +1,3 @@
-/*
-  ALUNO: SAMUEL ISAAC ANDRADE MARTINS
-  MATRÍCULA: 20251003301415
-  CURSO: ENGENHARIA DA COMPUTAÇÃO
-*/
-
 
 #ifndef SAMUELNUMCOMPLEX_h
 #define SAMUELNUMCOMPLEX_H
@@ -140,4 +134,5 @@ char* formPol (numPol a){ // formata em um buffer a forma de se escrever a forma
     snprintf(bufferNumComplex, 50, "%.2f <%.2f%c", a.modulo, a.teta, 248);
     
     return bufferNumComplex;
+
 }
