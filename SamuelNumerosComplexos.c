@@ -1,8 +1,3 @@
-/*
-  ALUNO: SAMUEL ISAAC ANDRADE MARTINS
-  MATRÍCULA: 20251003301415
-  CURSO: ENGENHARIA DA COMPUTAÇÃO
-*/
 
 #include <stdio.h>
 #include "SamuelNumComplex.h"
@@ -76,4 +71,5 @@ int main (){
 
     
     return 0;
+
 }
